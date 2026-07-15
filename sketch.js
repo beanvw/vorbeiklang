@@ -566,7 +566,7 @@ const KONVERSATION_UEBERSCHRIFTEN = {
   61: ["Milch"],
   62: ["Das ist nur Stress"],
   63: ["Nur fünf Minuten"],
-  64: ["Packetstation"],
+  64: ["Packstation"],
   65: ["Papa, ich will Sahne!"],
   66: ["Die wachsen ja wieder"],
   67: ["Ich habe viel Energie"],
