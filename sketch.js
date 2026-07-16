@@ -493,7 +493,7 @@ const KONVERSATION_TEXTE = {
   64: "Mein Paket wurde bei der Nachbarin abgegeben, aber ich konnte es erst heute abholen. Weißt du, was sie zu mir gesagt hat? „Das ist wirklich unverschämt. Das Paket steht hier schon seit Tagen, das setzt ja schon Staub an. Ich bin keine Packstation. Wenn man etwas bestellt, sollte man auch zu Hause sein. Das nächste Mal nehme ich nichts mehr für Sie an.“ Ich wusste gar nicht, was ich darauf antworten sollte",
   65: "Sahne! Papa, ich will Sahne! Sahne! Bitte, Papa! Ich will Sahne!",
   66: "Ich hab dem Friseur gesagt „Nur ein bisschen kürzer.“ Aber er hat so viel abgeschnitten und meinte dann „Die wachsen ja wieder.“",
-  67: "Du glaubst nicht, was dieser Typ letzens zu mir gesagt hat. So hat wirklich noch niemand mit mir geredet. Ich hab zu ihm gesagt „Ich bin laut. Ich hab viel Energie. Und wenn ich dir zu viel bin, dann geh einfach. Meine Ex-Freunde konnten damit auch nicht umgehen“ Und weißt du, was er darauf antwortet? „Dann waren die Ex-Freunde einfach zu wenig. Du bist nicht das Problem“ Peroid. ",
+  67: "Du glaubst nicht, was dieser Typ letzens zu mir gesagt hat. So hat wirklich noch niemand mit mir geredet. Ich hab zu ihm gesagt „Ich bin laut. Ich hab viel Energie. Und wenn ich dir zu viel bin, dann geh einfach. Meine Ex-Freunde konnten damit auch nicht umgehen“ Und weißt du, was er darauf antwortet? „Dann waren die Ex-Freunde einfach zu wenig. Du bist nicht das Problem“ Period. ",
   68: "Es kam die Durchsage „wegen der Unwetterwarnung soll niemand die Halle verlassen.“ Aber ich konnte trotzdem einfach gehen ",
   69: "Er meinte nur: „Ich finde es sehr mutig von dir, dass du dich traust deine Meinung zu äußern. Bei einem Thema, wo sich andere Menschen erstmal Informieren würden“",
   70: "Frau Bart meinte „Bis morgen muss das fertig sein. Wer nichts abgibt, bekommt eine 6. Das ist dann unser Problem.“ Aber die kann uns doch keine 6 geben!",
@@ -782,8 +782,8 @@ function setup() {
   startViewX = controls.view.x;
 startViewY = controls.view.y;
 
-maxDragX = width * 0.9;
-maxDragY = height * 2.3;
+maxDragX = width * 0.8;
+maxDragY = height * 2.2;
 }
 
 function mouseWheel(event) {
