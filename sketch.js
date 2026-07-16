@@ -782,7 +782,7 @@ function setup() {
   startViewX = controls.view.x;
 startViewY = controls.view.y;
 
-maxDragX = width * 0.8;
+maxDragX = width * 0.5;
 maxDragY = height * 2.2;
 }
 
